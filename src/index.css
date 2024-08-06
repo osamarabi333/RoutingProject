@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.row {
+  @apply flex flex-wrap;
+}
+
+.active {
+  background-color: #1abc9c;
+}
+
+.mainColor{
+      background-color: #2C3E50;
+}
