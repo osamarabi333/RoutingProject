@@ -19,7 +19,7 @@ export default function Portfolio() {
 
   return (
     <>
-      <div className="container pt-14 md:pt-0">
+      <div className="container text-center  pt-20 md:pt-0">
         <div className=" flex flex-col items-center pt-12 ">
           <h2 className="py-5 pt-24 text-[#2C3E50] text-4xl font-sans font-extrabold">
             PORTFOLIO COMPONENT

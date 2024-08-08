@@ -3,7 +3,7 @@ import React from "react";
 export default function About() {
   return (
     <>
-      <div className="pt-28 bg-[#1ABC9C] ">
+      <div className="pt-28 bg-[#1ABC9C] px-5 text-center ">
         <div className="container py-12 flex flex-col justify-center items-center">
           <h2 className="py-5 pt-24 text-white text-4xl font-sans font-extrabold">
             ABOUT COMPONENT

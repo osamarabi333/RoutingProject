@@ -3,7 +3,7 @@ import homeImage from "../../assets/images/avataaars.svg";
 export default function Home() {
   return (
     <>
-      <div className="pt-44 md:pt-28 bg-[#1ABC9C] ">
+      <div className="pt-52  md:pt-28 bg-[#1ABC9C] ">
         <div className="flex flex-col justify-center items-center">
           <img
             src={homeImage}
